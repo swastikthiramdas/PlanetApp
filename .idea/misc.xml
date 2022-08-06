@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Planeto/app/src/main/res/drawable/bg_fotter.xml" value="0.15" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/Planeto/app/src/main/res/drawable/bg_gradiant.xml" value="0.15" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Planeto/app/src/main/res/layout/activity_book_ride.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/Planeto/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/Planeto/app/src/main/res/layout/activity_planetdetail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Planeto/app/src/main/res/layout/activity_splash_screan.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/Planeto/app/src/main/res/layout/view.xml" value="0.25" />
       </map>
     </option>

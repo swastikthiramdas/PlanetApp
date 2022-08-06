@@ -10,4 +10,5 @@
     <color name="secondary">#5C5493</color>
     <color name="subtext">#DDDBDB</color>
     <color name="white">#FFFFFF</color>
+    <color name="red">#FF0303</color>
 </resources>

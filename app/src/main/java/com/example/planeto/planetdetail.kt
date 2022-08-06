@@ -1,5 +1,6 @@
 package com.example.planeto
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_planetdetail.*
@@ -22,6 +23,11 @@ class planetdetail : AppCompatActivity() {
         distance_info.text = obj.distance+" m/km"
         gravity_info.text = obj.gravity+" m/ss"
         overview_info.text = obj.overview
+
+        bookyourride.setOnClickListener{
+            val intent = Intent(this,BookRide::class.java)
+            startActivity(intent)
+        }
 
     }
 }
