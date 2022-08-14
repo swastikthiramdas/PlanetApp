@@ -1,2 +1,2 @@
 # PlanetApp
-A Beginner Project
+Planet App with good ui 
